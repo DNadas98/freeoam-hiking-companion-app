@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://github.com/DNadas98/freeoam-hiking-companion-app/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/DNadas98/freeoam-hiking-companion-app.svg?style=for-the-badge" alt="Contributors">
+  <a href="https://github.com/DNadas98/freeroam-hiking-companion/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/DNadas98/freeroam-hiking-companion.svg?style=for-the-badge" alt="Contributors">
   </a>
-  <a href="https://github.com/DNadas98/freeoam-hiking-companion-app/issues">
-    <img src="https://img.shields.io/github/issues/DNadas98/freeoam-hiking-companion-app.svg?style=for-the-badge" alt="Issues">
+  <a href="https://github.com/DNadas98/freeroam-hiking-companion/issues">
+    <img src="https://img.shields.io/github/issues/DNadas98/freeroam-hiking-companion.svg?style=for-the-badge" alt="Issues">
   </a>
-  <a href="https://github.com/DNadas98/freeoam-hiking-companion-app/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/DNadas98/freeoam-hiking-companion-app.svg?style=for-the-badge" alt="License">
+  <a href="https://github.com/DNadas98/freeroam-hiking-companion/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/DNadas98/freeroam-hiking-companion.svg?style=for-the-badge" alt="License">
   </a>
   <a href="https://linkedin.com/in/daniel-nadas">
     <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" alt="LinkedIn">
@@ -15,7 +15,7 @@
 
 <br xmlns="http://www.w3.org/1999/html"/>
 <div align="center">
-  <a href="https://github.com/DNadas98/freeoam-hiking-companion-app">
+  <a href="https://github.com/DNadas98/freeroam-hiking-companion">
     <img src="https://avatars.githubusercontent.com/u/125133206?v=4" alt="Logo" width="80" height="80">
   </a>
 
@@ -23,9 +23,9 @@
   <p align="center">
     Created by <a href="https://github.com/DNadas98">DNadas98 (Dániel Nádas)</a>
     <br />
-    <a href="https://github.com/DNadas98/freeoam-hiking-companion-app/issues">Report Bug</a>
+    <a href="https://github.com/DNadas98/freeroam-hiking-companion/issues">Report Bug</a>
     ·
-    <a href="https://github.com/DNadas98/freeoam-hiking-companion-app/issues">Request Feature</a>
+    <a href="https://github.com/DNadas98/freeroam-hiking-companion/issues">Request Feature</a>
   </p>
 </div>
 
@@ -140,7 +140,7 @@ WORK IN PROGRESS
 
 ## Roadmap
 
-- See the [open issues](https://github.com/DNadas98/freeoam-hiking-companion-app/issues) for a
+- See the [open issues](https://github.com/DNadas98/freeroam-hiking-companion/issues) for a
   full list of proposed features (and known issues).
 
 ## License
@@ -161,4 +161,4 @@ Dániel Nádas
 - LinkedIn: [Dániel Nádas](https://www.linkedin.com/in/daniel-nadas)
 
 Project
-Link: [https://github.com/DNadas98/freeoam-hiking-companion-app](https://github.com/DNadas98/freeoam-hiking-companion-app)
+Link: [https://github.com/DNadas98/freeroam-hiking-companion](https://github.com/DNadas98/freeroam-hiking-companion)
