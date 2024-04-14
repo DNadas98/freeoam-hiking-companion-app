@@ -149,7 +149,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Images
 
-WORK IN PROGRESS
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/DNadas98/freeroam-hiking-companion/main/screenshots/Screenshot_20240414_140952.png" alt="Screenshot 1"/>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/DNadas98/freeroam-hiking-companion/main/screenshots/Screenshot_20240414_141111.png" alt="Screenshot 2"/>
+    </td>
+  </tr>
+</table>
 
 ## Contact
 
