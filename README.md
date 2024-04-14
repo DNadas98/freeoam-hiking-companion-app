@@ -23,6 +23,8 @@
   <p align="center">
     Created by <a href="https://github.com/DNadas98">DNadas98 (Dániel Nádas)</a>
     <br />
+    <a href="https://github.com/users/DNadas98/projects/6">View Project Board</a>
+    ·
     <a href="https://github.com/DNadas98/freeroam-hiking-companion/issues">Report Bug</a>
     ·
     <a href="https://github.com/DNadas98/freeroam-hiking-companion/issues">Request Feature</a>
@@ -144,8 +146,7 @@ WORK IN PROGRESS
 
 ## Roadmap
 
-- See the [open issues](https://github.com/DNadas98/freeroam-hiking-companion/issues) for a
-  full list of proposed features (and known issues).
+- See the <a href="https://github.com/users/DNadas98/projects/6">Project Board</a> for the state of the project, a list of planned features and issues in all related project repositories.
 
 ## License
 
