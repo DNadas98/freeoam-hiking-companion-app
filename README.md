@@ -61,7 +61,7 @@ The FreeRoam Hiking Companion Application is a personal development project aime
 The architecture of the project leverages a microservices approach, incorporating several key components:
 
 #### Main Project Repository
-- [https://github.com/DNadas98/freeroam-hiking-companion](freeroam-hiking-companion)
+- [freeroam-hiking-companion](https://github.com/DNadas98/freeroam-hiking-companion)
 
 #### Angular Client
 - The client application with a dynamic map system, that allows users to explore trails and summits on open-source maps.
