@@ -23,6 +23,8 @@
   <p align="center">
     Created by <a href="https://github.com/DNadas98">DNadas98 (Dániel Nádas)</a>
     <br />
+    <a href="https://github.com/users/DNadas98/projects/6">View Project Board</a>
+    ·
     <a href="https://github.com/DNadas98/freeroam-hiking-companion/issues">Report Bug</a>
     ·
     <a href="https://github.com/DNadas98/freeroam-hiking-companion/issues">Request Feature</a>
@@ -59,6 +61,10 @@ The FreeRoam Hiking Companion Application is a personal development project aime
 
 ## Repositories & Tech Stack
 The architecture of the project leverages a microservices approach, incorporating several key components:
+
+#### Main Project Repository
+- [freeroam-hiking-companion](https://github.com/DNadas98/freeroam-hiking-companion)
+
 #### Angular Client
 - The client application with a dynamic map system, that allows users to explore trails and summits on open-source maps.
 - Repository: [freeroam-frontend-angular](https://github.com/DNadas98/freeroam-frontend-angular)
@@ -140,8 +146,7 @@ WORK IN PROGRESS
 
 ## Roadmap
 
-- See the [open issues](https://github.com/DNadas98/freeroam-hiking-companion/issues) for a
-  full list of proposed features (and known issues).
+- See the <a href="https://github.com/users/DNadas98/projects/6">Project Board</a> for the state of the project, a list of planned features and issues in all related project repositories.
 
 ## License
 
@@ -149,7 +154,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Images
 
-WORK IN PROGRESS
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/DNadas98/freeroam-hiking-companion/main/screenshots/Screenshot_20240414_140952.png" alt="Screenshot 1"/>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/DNadas98/freeroam-hiking-companion/main/screenshots/Screenshot_20240414_141111.png" alt="Screenshot 2"/>
+    </td>
+  </tr>
+</table>
 
 ## Contact
 
