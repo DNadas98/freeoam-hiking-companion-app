@@ -4,7 +4,7 @@ services:
     container_name: psql_keycloak
     image: postgres
     environment:
-      POSTGRES_DB: ${KC_DB_URL}
+      POSTGRES_DB: keycloakdb
       POSTGRES_USER: ${KC_DB_USERNAME}
       POSTGRES_PASSWORD: ${KC_DB_PASSWORD}
       PGDATA: /data/postgres
@@ -22,6 +22,8 @@ services:
   keycloak:
     container_name: keycloak
     image: dnadas98/freeroam:keycloak
+    environment:
+      - JAVA_OPTS_APPEND=-Dkeycloak.profile.feature.upload_scripts=enabled
     env_file:
       - ./.env
     ports:
