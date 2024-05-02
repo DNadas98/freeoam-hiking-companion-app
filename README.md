@@ -127,21 +127,30 @@ The architecture of the project leverages a microservices approach, incorporatin
 
 ## Getting Started
 
-### Deployment
-
-WORK IN PROGRESS
-
 ### Prerequisites
-
-WORK IN PROGRESS
+- Docker, Docker Compose
 
 ### Setup & Run
 
-WORK IN PROGRESS
-
-## Usage
-
-WORK IN PROGRESS
+- Copy `env.txt` to `.env` and fill in the necessary environment variables.
+- Run `docker-compose up -d` in the root directory.
+- Access the Keycloak admin console at `http://localhost:8080` with the credentials `admin/admin`.
+- Create scopes:
+  - Create a new scope with the name `summits_read`
+  - Create a new scope with the name `summits_write`
+  - Create a new scope with the name `trails_read`
+  - Create a new scope with the name `trails_write`
+- Create a new client with the client ID `freeroam_frontend`
+  - Set the root URL `http://localhost:4200`.
+  - Set the client type to public
+- Create a new client with the client ID `freeroam_gateway`
+  - Set the root URL `http://localhost:8080`.
+  - Set the client type to confidential
+- Create a new client with the client ID `freeroam_gateway_s2s`
+  - Set the root URL `http://localhost:8080`.
+  - Set the client type to confidential
+- Add the scopes `summits_read`, `summits_write`, `trails_read`, `trails_write` to the clients.
+- The application is will be accessible at `http://localhost:4200`
 
 ## Roadmap
 
