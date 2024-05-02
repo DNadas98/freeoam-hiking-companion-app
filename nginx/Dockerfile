@@ -3,7 +3,7 @@ FROM dnadas98/freeroam:frontend_angular as build_frontend
 FROM nginx:latest
 
 # frontend
-COPY --from=build_frontend /home/app/dist /usr/share/nginx/html/frontend
+COPY --from=build_frontend /home/app/dist/freeroam-frontend-angular/browser /usr/share/nginx/html/frontend
 RUN chown -R nginx:nginx /usr/share/nginx/html/frontend
 RUN chmod -R 755 /usr/share/nginx/html/frontend
 
