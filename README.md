@@ -122,7 +122,6 @@ The architecture of the project leverages a microservices approach, incorporatin
 #### Integration and Deployment
 
 [![Docker](https://img.shields.io/badge/-Docker-1d63ed?style=for-the-badge&logo=docker&logoColor=black)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=black)](https://kubernetes.io/)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=black)](https://github.com/features/actions)
 [![Nginx](https://img.shields.io/badge/-Nginx-227722?style=for-the-badge&logo=nginx&logoColor=black)](https://www.nginx.com/)
 
@@ -154,16 +153,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Images
 
-<table>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/DNadas98/freeroam-hiking-companion/main/screenshots/Screenshot_20240414_140952.png" alt="Screenshot 1"/>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/DNadas98/freeroam-hiking-companion/main/screenshots/Screenshot_20240414_141111.png" alt="Screenshot 2"/>
-    </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/DNadas98/freeroam-hiking-companion/main/screenshots/Screenshot_20240419_055907.png" alt="Screenshot 1"/>
+<img src="https://raw.githubusercontent.com/DNadas98/freeroam-hiking-companion/main/screenshots/Screenshot_20240419_060052.png" alt="Screenshot 2"/>
+<img src="https://raw.githubusercontent.com/DNadas98/freeroam-hiking-companion/main/screenshots/Screenshot_20240419_060222.png" alt="Screenshot 3"/>
+
 
 ## Contact
 
